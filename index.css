@@ -1,0 +1,126 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    position: relative;
+    li{
+    display: table-cell;
+    position: relative;
+    padding: 20px 0;
+}
+nav{
+    background-color: #f0f8ffe1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+}
+nav ul{
+    display: flex;
+    text-decoration: none;
+    font-size: large;
+}
+div{
+    h1{
+        font-style: italic;
+        width: 100%;
+        color: #f48fb1;
+        text-decoration: solid;
+    }
+    h3{
+        justify-content: space-between;
+    }
+}
+a{
+    color: hotpink;
+    text-transform: uppercase;
+    text-decoration: overline;
+    letter-spacing: 0.15em;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    display: inline-block;
+    position: relative;
+    line-gap-override: initial;
+}
+a:hover:after{
+    width: 100%;
+    left: 0%;
+    background-color: rgb(255, 182, 223);
+}
+section{
+        h1{
+            padding-top:20px ;
+            width: 100%;
+            color: #f48fb1;
+            text-align: center;
+            text-decoration: solid;
+            justify-content: space-between;
+            font-size: 100px !important;
+            font-variant: small-caps;
+            padding-bottom: 40px;
+            background-image: url(fleusrosesbas.jpg);
+            background-size: cover;
+            background-position: center;
+
+        }
+    }
+    hr{
+        border-color: aqua;
+        border-top: 1px solid #fe98a9;
+    }
+}
+
+body{
+    background-color: #c2f0ff0b;
+    article h3{
+        color: #f48fb1;
+        text-align: center;
+    }
+    a{
+        color: hwb(328 8% 0% / 0.386);
+    }
+    h3{
+        color: black;
+        text-align: center;
+    }
+    
+    img{
+        image-orientation: from-image;
+        shape-image-threshold: unset;
+        position: relative;
+        display: block;
+        height: auto;
+        top: 0;
+        margin: 20px auto;
+        max-width: 100%;
+    }
+    
+main{
+    padding: 100px;
+    line-height: 40px;
+    aside{
+        pointer-events: none;
+        float: right;
+        position: relative;
+        padding: 0%;
+        right: 0%;
+        top: 0%;
+        width: 400px;
+        height: 600px;
+
+}
+
+}
+}
+footer{
+    background-image: url(eyemad.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px ;
+    display: flex;
+    height: 200px;
+}

@@ -1,0 +1,22 @@
+h1{
+    color: #f48fb1;
+    font-family: serif;
+    font-style: italic;
+    font-size: 100PX;
+}
+
+body{
+    background-image: url(codegirl.jpg);
+    background-size: cover;
+    width: 900PX;
+    height: 600PX;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+
+    h2{
+    color: rgb(209, 229, 246);
+    font-size: 20px;
+    align-self: baseline;
+}
+}

@@ -14,7 +14,7 @@ body{
     background-repeat: no-repeat;
     display: flex;
     font-size: 20px,
-    text-color: alice blue;
+    color: alice blue;
 
     h2{
     color: rgb(209, 229, 246);

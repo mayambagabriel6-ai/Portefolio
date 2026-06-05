@@ -43,7 +43,7 @@ section{
     transition: 0.3s;
     flex: 1 1 300px;
     padding: 30px;;
-    background: linear-gradient(to right ,#e6e6fa, #f5d2e1);
+    background: linear-gradient(to right ,#f07167, #f07167);
 }
 .card:hover{
     box-shadow: 0 8px 16px rgba(0, 0, 255, 0.297);
